@@ -9,5 +9,3 @@ This is my own experience with some classic algorithms for leetcode , mainly inc
 - String algorithms
 - mathematical problems
 - dynamic programming problems
-
-- 
